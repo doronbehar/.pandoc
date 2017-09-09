@@ -1,0 +1,3 @@
+[submodule "s5"]
+	path = s5
+	url = https://github.com/CodeGnome/s5
