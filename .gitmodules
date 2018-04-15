@@ -1,6 +1,6 @@
 [submodule "s5"]
 	path = s5
 	url = https://github.com/CodeGnome/s5
-[submodule "templates"]
+[submodule "original-templates"]
 	path = templates
-	url = https://github.com/doronbehar/pandoc-templates
+	url = https://github.com/jgm/pandoc-templates
